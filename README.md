@@ -1,1 +1,1 @@
-# Gold-Price-Prediction
+Predicting gold prices using Random Forest Regressor
